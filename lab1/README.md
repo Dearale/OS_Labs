@@ -24,6 +24,6 @@
 
 ```
 make
-./client filename 
+./client.out filename 
 ```
 `filename` - имя файла в текущей директории, куда будут сохраняться логи
