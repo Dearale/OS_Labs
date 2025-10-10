@@ -24,3 +24,6 @@
 # системные
 .DS_Store
 Thumbs.db
+
+lab1/*.txt
+lab2/*.txt
